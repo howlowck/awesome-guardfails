@@ -9,5 +9,7 @@ A list of stories of GenAI Assistants that could have used better guardrailing a
 
 ## News Articles
 * **2025-01-27** [French AI chatbot taken offline after wild answers led to online ridicule](https://www.msn.com/en-us/technology/artificial-intelligence/french-ai-chatbot-taken-offline-after-wild-answers-led-to-online-ridicule/ar-AA1xWGSX)
+* **2024-02-23** [Google Under Fire As Gemini Generates Inaccurate Images Of Historical Figures](https://www.nasdaq.com/articles/google-under-fire-as-gemini-generates-inaccurate-images-of-historical-figures)
+* **2024-02-16** [Air Canada must honor refund policy invented by airline’s chatbot](https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/)
 * **2024-02** [Microsoft Says Copilot's Alternative Personality as a Godlike and Vengeful AGI Is an "Exploit, Not a Feature"](https://www.msn.com/en-us/news/technology/microsoft-says-copilot-s-alternative-personality-as-a-godlike-and-vengeful-agi-is-an-exploit-not-a-feature/ar-BB1j7oLd)
 * **2023-12-18** [GM Dealer Chat Bot Agrees To Sell 2024 Chevy Tahoe For $1](https://gmauthority.com/blog/2023/12/gm-dealer-chat-bot-agrees-to-sell-2024-chevy-tahoe-for-1/)
