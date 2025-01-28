@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,178.3,167.1)">
+        <path d="M614.2,91L464.2,-46.6L443.1,-23.6L568.1,91L75.4,91L200.4,-23.7L179.3,-46.7L29.3,91L29.2,91L29.2,181.7C29.2,222.7 68.7,256.1 117.2,256.1L209.7,256.1C258.2,256.1 297.7,222.7 297.7,181.7L297.7,122.1L345.7,122.1L345.7,181.7C345.7,222.7 385.2,256.1 433.7,256.1L526.2,256.1C574.7,256.1 614.2,222.7 614.2,181.7L614.2,91Z" style="fill:rgb(252,96,168);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-61.6264,87.3885)">
+        <g transform="matrix(72,0,0,72,478.306,505.605)">
+            <rect x="0.049" y="-0.318" width="0.488" height="0.091" style="fill:rgb(135,135,135);fill-rule:nonzero;"/>
+        </g>
+        <text x="182.994px" y="505.605px" style="font-family:'CaskaydiaCoveNerdFontCompleteM-', 'CaskaydiaCove NF', monospace;font-size:72px;fill:rgb(135,135,135);">awesome<tspan x="520.494px " y="505.605px ">g</tspan>uardfails</text>
+    </g>
+    <g transform="matrix(0.672703,0,0,0.672703,163.349,143.627)">
+        <path d="M408.599,482.42C408.599,482.42 448.726,447.643 500,447.643C551.274,447.643 592.293,482.42 592.293,482.42" style="fill:none;stroke:rgb(179,179,179);stroke-width:36.16px;"/>
+    </g>
+</svg>
